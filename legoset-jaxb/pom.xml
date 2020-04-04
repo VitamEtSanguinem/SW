@@ -12,11 +12,11 @@
 	</properties>
 	<developers>
 		<developer>
-			<id>mgyori</id>
-			<name>Mark Gyori</name>
-			<email>info@markgyori.eu</email>
-			<organization>Mark Gyori</organization>
-			<organizationUrl>https://markgyori.eu/</organizationUrl>
+			<id>Dawe</id>
+			<name>Remias David</name>
+			
+			<organization>Remias David</organization>
+			<organizationUrl>https://remiasdavid.eu/</organizationUrl>
 		</developer>
 	</developers>
 	<dependencies>
