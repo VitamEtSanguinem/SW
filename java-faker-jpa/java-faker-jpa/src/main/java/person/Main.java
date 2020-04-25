@@ -1,8 +1,6 @@
 package person;
 
 import com.github.javafaker.Faker;
-/*import user.model.User;
-*/
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
